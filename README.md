@@ -1,0 +1,2 @@
+# OffensiveLangDetectIndoAryan
+OffensiveLangDetectIndoAryan
